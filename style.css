@@ -1,3 +1,8 @@
+img {
+    height: 200px;
+    width: 200px;
+  }
+
 #red {
     color:red;
     font-weight: normal;
@@ -10,5 +15,15 @@
 
 #orange {
     color:rgb(255, 149, 0);
+    font-weight: normal;
+}
+
+#green {
+    color:rgb(26, 255, 0);
+    font-weight: normal;
+}
+
+#yellow {
+    color:rgb(246, 255, 0);
     font-weight: normal;
 }
